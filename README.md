@@ -1,10 +1,10 @@
 # CSUP-Mobile-Application
 
-Put here one line about your project.
+Android application for Dental office
 
 ### Project Overview
 
-* Write summary about your project. Minimum 300 words.
+* The application for the (private) dental office "ConfiDent" is intended to schedule an end-user examination, the application also includes an administrator side, in which the system administrator would have access to the database (review date, review description, account review ..) and complete the form (user review sheet).
 
 
 ### Logical View
