@@ -14,4 +14,4 @@ Android application for Dental office
 
 ### Technology Stack
 
-* Java, MySql, PHP, Apache HTTP Server, phpMyAdmin.
+* Java, MySQL, PHP, Apache HTTP Server, phpMyAdmin.
