@@ -9,9 +9,9 @@ Android application for Dental office
 
 ### Logical View
 
-* Place here figure that depicts logical overview of your project. (You can use draw.io).
+* https://github.com/BrankoJovovic/StomatoloskaOrdinacija_aplikacija/blob/master/DentalOffice_LogicalView.png
 
 
 ### Technology Stack
 
-* Describe here technology stack you are using.
+* Java, MySql, PHP, Apache HTTP Server, phpMyAdmin.
