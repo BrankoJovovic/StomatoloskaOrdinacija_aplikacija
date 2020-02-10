@@ -4,7 +4,9 @@ Android application for Dental office
 
 ### Project Overview
 
-* The application for the (private) dental office "ConfiDent" is intended to schedule an end-user examination, the application also includes an administrator side, in which the system administrator would have access to the database (review date, review description, account review ..) and complete the form (user review sheet).
+* Nowadays, with the advancement of technology, everyday changes are taking place, as well as in the field of health care, there is a need for the development of a system that will quickly and efficiently improve the quality of service delivery of the healthcare institution itself, in this case specifically dental offices. 
+The mobile application for the dental office aims to quickly and efficiently improve and speed up the operation of the dental office, as well as to provide the initial user with an easy way to schedule an examination via their mobile phone. The mobile application for the dental office enables the initial user to easily schedule an appointment at the dental office at his / her appropriate time using his / her mobile phone, as well as the office itself to keep records of all scheduled and performed examinations through this application.
+The application would be a great investment for the dental office, it can meet all business requirements.
 
 
 ### Logical View
